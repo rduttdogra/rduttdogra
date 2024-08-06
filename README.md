@@ -9,25 +9,25 @@ I'm passionate about building scalable and efficient web applications that solve
 🔧 Custom WordPress Solutions:
 With extensive experience in WordPress, I provide tailored solutions including theme development, plugin customization, and full-scale website builds, ensuring a unique and seamless digital presence.
 
-💻 Full-Stack Development:
+💻 **Full-Stack Development:**
 I specialize in both front-end and back-end development using technologies like Laravel, ReactJS, VueJS, and NextJS, delivering high-performance web applications that are both scalable and maintainable.
 
-🛒 E-Commerce Expertise:
+🛒 **E-Commerce Expertise:**
 Proficient in Shopify development, I craft custom e-commerce solutions, including store setup, theme customization, and app integrations, to boost your online sales and enhance user experience.
 
-⚙️ PHP Development:
+⚙️ **PHP Development:**
 With deep knowledge of PHP, I build dynamic and robust web applications, ensuring clean code, efficient performance, and security.
 
-🎨 Front-End Mastery:
+🎨 **Front-End Mastery:**
 I bring designs to life with a focus on user experience, utilizing ReactJS, VueJS, and modern CSS frameworks to create visually appealing and responsive interfaces.
 
-🌍 Comprehensive Integrations:
+🌍 **Comprehensive Integrations:**
 Expert in integrating various APIs and third-party services, including payment gateways, social media platforms, and more, to extend the functionality of your applications.
 
-🚀 Cloud and Server Management:
+🚀 **Cloud and Server Management:**
 Proficient in deploying and managing applications on AWS, cPanel, and other hosting environments, ensuring your website or app runs smoothly and efficiently.
 
-📈 Agile Project Management:
+📈 **Agile Project Management:**
 I employ Agile methodologies using tools like JIRA, Trello, and ClickUp, ensuring your projects are delivered on time and within budget, with a focus on quality and client satisfaction.
 
 
